@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Ole Myhra and I am a hobby developer from Norway.
+
+I have a passion for software development and focus mostly on C programming in general but also doing some embedded systems work.
+
+My main project these days is to develop an emulator for the Atmel ATtiny85 micro controller. The intention with this project is to expand my knowledge about the C programming language but also learn about doing test driven development and a common build environment using cmake.
+
+Best regards Ole Myhra
+
 <!--
 **olemyhra/olemyhra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
